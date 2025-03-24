@@ -1,0 +1,12 @@
+C:\Users\Usuario\Documents\GitHub\ToDoListBasic\ToDoList.Communication\bin\Debug\net8.0\ToDoList.Communication.deps.json
+C:\Users\Usuario\Documents\GitHub\ToDoListBasic\ToDoList.Communication\bin\Debug\net8.0\ToDoList.Communication.dll
+C:\Users\Usuario\Documents\GitHub\ToDoListBasic\ToDoList.Communication\bin\Debug\net8.0\ToDoList.Communication.pdb
+C:\Users\Usuario\Documents\GitHub\ToDoListBasic\ToDoList.Communication\obj\Debug\net8.0\ToDoList.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\GitHub\ToDoListBasic\ToDoList.Communication\obj\Debug\net8.0\ToDoList.Communication.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\GitHub\ToDoListBasic\ToDoList.Communication\obj\Debug\net8.0\ToDoList.Communication.AssemblyInfo.cs
+C:\Users\Usuario\Documents\GitHub\ToDoListBasic\ToDoList.Communication\obj\Debug\net8.0\ToDoList.Communication.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\GitHub\ToDoListBasic\ToDoList.Communication\obj\Debug\net8.0\ToDoList.Communication.sourcelink.json
+C:\Users\Usuario\Documents\GitHub\ToDoListBasic\ToDoList.Communication\obj\Debug\net8.0\ToDoList.Communication.dll
+C:\Users\Usuario\Documents\GitHub\ToDoListBasic\ToDoList.Communication\obj\Debug\net8.0\refint\ToDoList.Communication.dll
+C:\Users\Usuario\Documents\GitHub\ToDoListBasic\ToDoList.Communication\obj\Debug\net8.0\ToDoList.Communication.pdb
+C:\Users\Usuario\Documents\GitHub\ToDoListBasic\ToDoList.Communication\obj\Debug\net8.0\ref\ToDoList.Communication.dll

@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using ToDoList.Application.UseCases.Tasks.Register;
+using ToDoList.Application.UseCases.Tasks.Update;
 using ToDoList.Communication.Requests;
 using ToDoList.Communication.Responses;
 
@@ -19,6 +20,21 @@ namespace ToDoList.API.Controllers
             var response = useCase.Execute(request);
 
             return Created(string.Empty, response);
+        }
+
+
+        [HttpPut]
+        [Route("{id}")]
+        [ProducesResponseType(StatusCodes.Status204NoContent)]
+        [ProducesResponseType(typeof(ResponseErrorsJson), StatusCodes.Status400BadRequest)]
+
+        public IActionResult Update([FromRoute]int id, [FromBody]RequestTaskJson request)
+        {
+            var useCase = new UpdateTaskUseCase();
+
+            useCase.Execute(id, request);
+
+            return NoContent();
         }
     }
 }
