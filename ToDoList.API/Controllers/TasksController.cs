@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using ToDoList.Application.UseCases.Tasks.Delete;
 using ToDoList.Application.UseCases.Tasks.GetAll;
 using ToDoList.Application.UseCases.Tasks.GetById;
 using ToDoList.Application.UseCases.Tasks.Register;
@@ -70,6 +71,19 @@ namespace ToDoList.API.Controllers
             var response = useCase.Execute(id);
 
             return Ok(response);
+        }
+
+        [HttpDelete]
+        [Route("{id}")]
+        [ProducesResponseType(StatusCodes.Status204NoContent)]
+        [ProducesResponseType(typeof(ResponseErrorsJson), StatusCodes.Status404NotFound)]
+        public IActionResult Delete(int id)
+        {
+            var useCase = new DeleteTaskByIdUseCase();
+
+            useCase.Execute(id);
+
+            return NoContent();
         }
     }
 }

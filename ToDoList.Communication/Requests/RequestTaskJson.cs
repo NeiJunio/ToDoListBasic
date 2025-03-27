@@ -1,11 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using ToDoList.Communication.Enums;
-
-
+﻿using ToDoList.Communication.Enums;
 
 namespace ToDoList.Communication.Requests
 {

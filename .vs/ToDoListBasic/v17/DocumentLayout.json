@@ -3,56 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\GitHub\\ToDoListBasic\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{93226F57-98D2-4C3A-81C6-54F7251D0EF7}|ToDoList.Application\\ToDoList.Application.csproj|c:\\users\\usuario\\documents\\github\\todolistbasic\\todolist.application\\usecases\\tasks\\getall\\getalltaskusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93226F57-98D2-4C3A-81C6-54F7251D0EF7}|ToDoList.Application\\ToDoList.Application.csproj|solutionrelative:todolist.application\\usecases\\tasks\\getall\\getalltaskusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5644540C-80F4-4192-9341-888F636F65E4}|ToDoList.Communication\\ToDoList.Communication.csproj|c:\\users\\usuario\\documents\\github\\todolistbasic\\todolist.communication\\responses\\responseshorttaskjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5644540C-80F4-4192-9341-888F636F65E4}|ToDoList.Communication\\ToDoList.Communication.csproj|solutionrelative:todolist.communication\\responses\\responseshorttaskjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5644540C-80F4-4192-9341-888F636F65E4}|ToDoList.Communication\\ToDoList.Communication.csproj|c:\\users\\usuario\\documents\\github\\todolistbasic\\todolist.communication\\enums\\taskpriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5644540C-80F4-4192-9341-888F636F65E4}|ToDoList.Communication\\ToDoList.Communication.csproj|solutionrelative:todolist.communication\\enums\\taskpriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93226F57-98D2-4C3A-81C6-54F7251D0EF7}|ToDoList.Application\\ToDoList.Application.csproj|c:\\users\\usuario\\documents\\github\\todolistbasic\\todolist.application\\usecases\\tasks\\getbyid\\getbyidtaskusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93226F57-98D2-4C3A-81C6-54F7251D0EF7}|ToDoList.Application\\ToDoList.Application.csproj|solutionrelative:todolist.application\\usecases\\tasks\\getbyid\\getbyidtaskusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8541EA72-5581-4006-92C3-B84CB98F0311}|ToDoList.API\\ToDoList.API.csproj|c:\\users\\usuario\\documents\\github\\todolistbasic\\todolist.api\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8541EA72-5581-4006-92C3-B84CB98F0311}|ToDoList.API\\ToDoList.API.csproj|solutionrelative:todolist.api\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|Itens de Solu\u00E7\u00E3o{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|C:\\Users\\Usuario\\Documents\\GitHub\\ToDoListBasic\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|Itens de Solu\u00E7\u00E3o{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5644540C-80F4-4192-9341-888F636F65E4}|ToDoList.Communication\\ToDoList.Communication.csproj|c:\\users\\usuario\\documents\\github\\todolistbasic\\todolist.communication\\responses\\responsetaskjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5644540C-80F4-4192-9341-888F636F65E4}|ToDoList.Communication\\ToDoList.Communication.csproj|solutionrelative:todolist.communication\\responses\\responsetaskjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93226F57-98D2-4C3A-81C6-54F7251D0EF7}|ToDoList.Application\\ToDoList.Application.csproj|c:\\users\\usuario\\documents\\github\\todolistbasic\\todolist.application\\usecases\\tasks\\register\\registertaskusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93226F57-98D2-4C3A-81C6-54F7251D0EF7}|ToDoList.Application\\ToDoList.Application.csproj|solutionrelative:todolist.application\\usecases\\tasks\\register\\registertaskusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5644540C-80F4-4192-9341-888F636F65E4}|ToDoList.Communication\\ToDoList.Communication.csproj|c:\\users\\usuario\\documents\\github\\todolistbasic\\todolist.communication\\responses\\responsealltaskjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5644540C-80F4-4192-9341-888F636F65E4}|ToDoList.Communication\\ToDoList.Communication.csproj|solutionrelative:todolist.communication\\responses\\responsealltaskjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93226F57-98D2-4C3A-81C6-54F7251D0EF7}|ToDoList.Application\\ToDoList.Application.csproj|c:\\users\\usuario\\documents\\github\\todolistbasic\\todolist.application\\usecases\\tasks\\update\\updatetaskusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93226F57-98D2-4C3A-81C6-54F7251D0EF7}|ToDoList.Application\\ToDoList.Application.csproj|solutionrelative:todolist.application\\usecases\\tasks\\update\\updatetaskusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5644540C-80F4-4192-9341-888F636F65E4}|ToDoList.Communication\\ToDoList.Communication.csproj|c:\\users\\usuario\\documents\\github\\todolistbasic\\todolist.communication\\responses\\responseerrorsjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5644540C-80F4-4192-9341-888F636F65E4}|ToDoList.Communication\\ToDoList.Communication.csproj|solutionrelative:todolist.communication\\responses\\responseerrorsjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5644540C-80F4-4192-9341-888F636F65E4}|ToDoList.Communication\\ToDoList.Communication.csproj|c:\\users\\usuario\\documents\\github\\todolistbasic\\todolist.communication\\responses\\responseshorttaskjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5644540C-80F4-4192-9341-888F636F65E4}|ToDoList.Communication\\ToDoList.Communication.csproj|solutionrelative:todolist.communication\\responses\\responseshorttaskjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5644540C-80F4-4192-9341-888F636F65E4}|ToDoList.Communication\\ToDoList.Communication.csproj|c:\\users\\usuario\\documents\\github\\todolistbasic\\todolist.communication\\responses\\responseregistertaskjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5644540C-80F4-4192-9341-888F636F65E4}|ToDoList.Communication\\ToDoList.Communication.csproj|solutionrelative:todolist.communication\\responses\\responseregistertaskjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8541EA72-5581-4006-92C3-B84CB98F0311}|ToDoList.API\\ToDoList.API.csproj|c:\\users\\usuario\\documents\\github\\todolistbasic\\todolist.api\\todolist.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{8541EA72-5581-4006-92C3-B84CB98F0311}|ToDoList.API\\ToDoList.API.csproj|solutionrelative:todolist.api\\todolist.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{5644540C-80F4-4192-9341-888F636F65E4}|ToDoList.Communication\\ToDoList.Communication.csproj|c:\\users\\usuario\\documents\\github\\todolistbasic\\todolist.communication\\responses\\responseerrorsjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5644540C-80F4-4192-9341-888F636F65E4}|ToDoList.Communication\\ToDoList.Communication.csproj|solutionrelative:todolist.communication\\responses\\responseerrorsjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5644540C-80F4-4192-9341-888F636F65E4}|ToDoList.Communication\\ToDoList.Communication.csproj|c:\\users\\usuario\\documents\\github\\todolistbasic\\todolist.communication\\responses\\responsealltaskjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5644540C-80F4-4192-9341-888F636F65E4}|ToDoList.Communication\\ToDoList.Communication.csproj|solutionrelative:todolist.communication\\responses\\responsealltaskjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5644540C-80F4-4192-9341-888F636F65E4}|ToDoList.Communication\\ToDoList.Communication.csproj|c:\\users\\usuario\\documents\\github\\todolistbasic\\todolist.communication\\requests\\requesttaskjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5644540C-80F4-4192-9341-888F636F65E4}|ToDoList.Communication\\ToDoList.Communication.csproj|solutionrelative:todolist.communication\\requests\\requesttaskjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5644540C-80F4-4192-9341-888F636F65E4}|ToDoList.Communication\\ToDoList.Communication.csproj|c:\\users\\usuario\\documents\\github\\todolistbasic\\todolist.communication\\enums\\taskstatusprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5644540C-80F4-4192-9341-888F636F65E4}|ToDoList.Communication\\ToDoList.Communication.csproj|solutionrelative:todolist.communication\\enums\\taskstatusprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5644540C-80F4-4192-9341-888F636F65E4}|ToDoList.Communication\\ToDoList.Communication.csproj|c:\\users\\usuario\\documents\\github\\todolistbasic\\todolist.communication\\enums\\taskpriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5644540C-80F4-4192-9341-888F636F65E4}|ToDoList.Communication\\ToDoList.Communication.csproj|solutionrelative:todolist.communication\\enums\\taskpriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93226F57-98D2-4C3A-81C6-54F7251D0EF7}|ToDoList.Application\\ToDoList.Application.csproj|c:\\users\\usuario\\documents\\github\\todolistbasic\\todolist.application\\usecases\\tasks\\update\\updatetaskusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93226F57-98D2-4C3A-81C6-54F7251D0EF7}|ToDoList.Application\\ToDoList.Application.csproj|solutionrelative:todolist.application\\usecases\\tasks\\update\\updatetaskusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93226F57-98D2-4C3A-81C6-54F7251D0EF7}|ToDoList.Application\\ToDoList.Application.csproj|c:\\users\\usuario\\documents\\github\\todolistbasic\\todolist.application\\usecases\\tasks\\register\\registertaskusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93226F57-98D2-4C3A-81C6-54F7251D0EF7}|ToDoList.Application\\ToDoList.Application.csproj|solutionrelative:todolist.application\\usecases\\tasks\\register\\registertaskusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93226F57-98D2-4C3A-81C6-54F7251D0EF7}|ToDoList.Application\\ToDoList.Application.csproj|c:\\users\\usuario\\documents\\github\\todolistbasic\\todolist.application\\usecases\\tasks\\getbyid\\getbyidtaskusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93226F57-98D2-4C3A-81C6-54F7251D0EF7}|ToDoList.Application\\ToDoList.Application.csproj|solutionrelative:todolist.application\\usecases\\tasks\\getbyid\\getbyidtaskusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93226F57-98D2-4C3A-81C6-54F7251D0EF7}|ToDoList.Application\\ToDoList.Application.csproj|c:\\users\\usuario\\documents\\github\\todolistbasic\\todolist.application\\usecases\\tasks\\getall\\getalltaskusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93226F57-98D2-4C3A-81C6-54F7251D0EF7}|ToDoList.Application\\ToDoList.Application.csproj|solutionrelative:todolist.application\\usecases\\tasks\\getall\\getalltaskusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93226F57-98D2-4C3A-81C6-54F7251D0EF7}|ToDoList.Application\\ToDoList.Application.csproj|c:\\users\\usuario\\documents\\github\\todolistbasic\\todolist.application\\usecases\\tasks\\delete\\deletetaskbyidusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93226F57-98D2-4C3A-81C6-54F7251D0EF7}|ToDoList.Application\\ToDoList.Application.csproj|solutionrelative:todolist.application\\usecases\\tasks\\delete\\deletetaskbyidusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8541EA72-5581-4006-92C3-B84CB98F0311}|ToDoList.API\\ToDoList.API.csproj|c:\\users\\usuario\\documents\\github\\todolistbasic\\todolist.api\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8541EA72-5581-4006-92C3-B84CB98F0311}|ToDoList.API\\ToDoList.API.csproj|solutionrelative:todolist.api\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8541EA72-5581-4006-92C3-B84CB98F0311}|ToDoList.API\\ToDoList.API.csproj|c:\\users\\usuario\\documents\\github\\todolistbasic\\todolist.api\\todolist.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8541EA72-5581-4006-92C3-B84CB98F0311}|ToDoList.API\\ToDoList.API.csproj|solutionrelative:todolist.api\\todolist.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5644540C-80F4-4192-9341-888F636F65E4}|ToDoList.Communication\\ToDoList.Communication.csproj|c:\\users\\usuario\\documents\\github\\todolistbasic\\todolist.communication\\todolist.communication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -66,7 +78,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,59 +102,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GetByIdTaskUseCase.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\ToDoListBasic\\ToDoList.Application\\UseCases\\Tasks\\GetById\\GetByIdTaskUseCase.cs",
-              "RelativeDocumentMoniker": "ToDoList.Application\\UseCases\\Tasks\\GetById\\GetByIdTaskUseCase.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\ToDoListBasic\\ToDoList.Application\\UseCases\\Tasks\\GetById\\GetByIdTaskUseCase.cs",
-              "RelativeToolTip": "ToDoList.Application\\UseCases\\Tasks\\GetById\\GetByIdTaskUseCase.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAwwBUAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T01:49:52.585Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GetAllTaskUseCase.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\ToDoListBasic\\ToDoList.Application\\UseCases\\Tasks\\GetAll\\GetAllTaskUseCase.cs",
-              "RelativeDocumentMoniker": "ToDoList.Application\\UseCases\\Tasks\\GetAll\\GetAllTaskUseCase.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\ToDoListBasic\\ToDoList.Application\\UseCases\\Tasks\\GetAll\\GetAllTaskUseCase.cs",
-              "RelativeToolTip": "ToDoList.Application\\UseCases\\Tasks\\GetAll\\GetAllTaskUseCase.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAcwCEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T01:07:19.222Z",
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\ToDoListBasic\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\ToDoListBasic\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-03-27T01:40:19.775Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ResponseShortTaskJson.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\ToDoListBasic\\ToDoList.Communication\\Responses\\ResponseShortTaskJson.cs",
-              "RelativeDocumentMoniker": "ToDoList.Communication\\Responses\\ResponseShortTaskJson.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\ToDoListBasic\\ToDoList.Communication\\Responses\\ResponseShortTaskJson.cs",
-              "RelativeToolTip": "ToDoList.Communication\\Responses\\ResponseShortTaskJson.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T01:02:12.901Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TasksController.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\ToDoListBasic\\ToDoList.API\\Controllers\\TasksController.cs",
-              "RelativeDocumentMoniker": "ToDoList.API\\Controllers\\TasksController.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\ToDoListBasic\\ToDoList.API\\Controllers\\TasksController.cs",
-              "RelativeToolTip": "ToDoList.API\\Controllers\\TasksController.cs",
-              "ViewState": "AgIAADQAAAAAsJmZmZnJv0cAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T01:49:55.034Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "ResponseAllTaskJson.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\ToDoListBasic\\ToDoList.Communication\\Responses\\ResponseAllTaskJson.cs",
               "RelativeDocumentMoniker": "ToDoList.Communication\\Responses\\ResponseAllTaskJson.cs",
@@ -155,20 +128,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "RegisterTaskUseCase.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\ToDoListBasic\\ToDoList.Application\\UseCases\\Tasks\\Register\\RegisterTaskUseCase.cs",
-              "RelativeDocumentMoniker": "ToDoList.Application\\UseCases\\Tasks\\Register\\RegisterTaskUseCase.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\ToDoListBasic\\ToDoList.Application\\UseCases\\Tasks\\Register\\RegisterTaskUseCase.cs",
-              "RelativeToolTip": "ToDoList.Application\\UseCases\\Tasks\\Register\\RegisterTaskUseCase.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAowBUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "ResponseErrorsJson.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\ToDoListBasic\\ToDoList.Communication\\Responses\\ResponseErrorsJson.cs",
+              "RelativeDocumentMoniker": "ToDoList.Communication\\Responses\\ResponseErrorsJson.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\ToDoListBasic\\ToDoList.Communication\\Responses\\ResponseErrorsJson.cs",
+              "RelativeToolTip": "ToDoList.Communication\\Responses\\ResponseErrorsJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T01:54:32.595Z",
+              "WhenOpened": "2025-03-24T02:06:25.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResponseRegisterTaskJson.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\ToDoListBasic\\ToDoList.Communication\\Responses\\ResponseRegisterTaskJson.cs",
+              "RelativeDocumentMoniker": "ToDoList.Communication\\Responses\\ResponseRegisterTaskJson.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\ToDoListBasic\\ToDoList.Communication\\Responses\\ResponseRegisterTaskJson.cs",
+              "RelativeToolTip": "ToDoList.Communication\\Responses\\ResponseRegisterTaskJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T01:55:32.366Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ResponseShortTaskJson.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\ToDoListBasic\\ToDoList.Communication\\Responses\\ResponseShortTaskJson.cs",
+              "RelativeDocumentMoniker": "ToDoList.Communication\\Responses\\ResponseShortTaskJson.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\ToDoListBasic\\ToDoList.Communication\\Responses\\ResponseShortTaskJson.cs",
+              "RelativeToolTip": "ToDoList.Communication\\Responses\\ResponseShortTaskJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T01:02:12.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResponseTaskJson.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\ToDoListBasic\\ToDoList.Communication\\Responses\\ResponseTaskJson.cs",
+              "RelativeDocumentMoniker": "ToDoList.Communication\\Responses\\ResponseTaskJson.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\ToDoListBasic\\ToDoList.Communication\\Responses\\ResponseTaskJson.cs",
+              "RelativeToolTip": "ToDoList.Communication\\Responses\\ResponseTaskJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T01:47:20.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RequestTaskJson.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\ToDoListBasic\\ToDoList.Communication\\Requests\\RequestTaskJson.cs",
+              "RelativeDocumentMoniker": "ToDoList.Communication\\Requests\\RequestTaskJson.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\ToDoListBasic\\ToDoList.Communication\\Requests\\RequestTaskJson.cs",
+              "RelativeToolTip": "ToDoList.Communication\\Requests\\RequestTaskJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T01:38:21.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "TaskPriority.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\ToDoListBasic\\ToDoList.Communication\\Enums\\TaskPriority.cs",
               "RelativeDocumentMoniker": "ToDoList.Communication\\Enums\\TaskPriority.cs",
@@ -181,39 +206,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ResponseTaskJson.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\ToDoListBasic\\ToDoList.Communication\\Responses\\ResponseTaskJson.cs",
-              "RelativeDocumentMoniker": "ToDoList.Communication\\Responses\\ResponseTaskJson.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\ToDoListBasic\\ToDoList.Communication\\Responses\\ResponseTaskJson.cs",
-              "RelativeToolTip": "ToDoList.Communication\\Responses\\ResponseTaskJson.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T01:47:20.968Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "ResponseErrorsJson.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\ToDoListBasic\\ToDoList.Communication\\Responses\\ResponseErrorsJson.cs",
-              "RelativeDocumentMoniker": "ToDoList.Communication\\Responses\\ResponseErrorsJson.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\ToDoListBasic\\ToDoList.Communication\\Responses\\ResponseErrorsJson.cs",
-              "RelativeToolTip": "ToDoList.Communication\\Responses\\ResponseErrorsJson.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T02:06:25.129Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "UpdateTaskUseCase.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\ToDoListBasic\\ToDoList.Application\\UseCases\\Tasks\\Update\\UpdateTaskUseCase.cs",
               "RelativeDocumentMoniker": "ToDoList.Application\\UseCases\\Tasks\\Update\\UpdateTaskUseCase.cs",
               "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\ToDoListBasic\\ToDoList.Application\\UseCases\\Tasks\\Update\\UpdateTaskUseCase.cs",
               "RelativeToolTip": "ToDoList.Application\\UseCases\\Tasks\\Update\\UpdateTaskUseCase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T02:54:45.844Z",
               "EditorCaption": ""
@@ -221,18 +220,84 @@
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "ResponseRegisterTaskJson.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\ToDoListBasic\\ToDoList.Communication\\Responses\\ResponseRegisterTaskJson.cs",
-              "RelativeDocumentMoniker": "ToDoList.Communication\\Responses\\ResponseRegisterTaskJson.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\ToDoListBasic\\ToDoList.Communication\\Responses\\ResponseRegisterTaskJson.cs",
-              "RelativeToolTip": "ToDoList.Communication\\Responses\\ResponseRegisterTaskJson.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAqwAkAAAALAAAAAAAAAA==",
+              "Title": "RegisterTaskUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\ToDoListBasic\\ToDoList.Application\\UseCases\\Tasks\\Register\\RegisterTaskUseCase.cs",
+              "RelativeDocumentMoniker": "ToDoList.Application\\UseCases\\Tasks\\Register\\RegisterTaskUseCase.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\ToDoListBasic\\ToDoList.Application\\UseCases\\Tasks\\Register\\RegisterTaskUseCase.cs",
+              "RelativeToolTip": "ToDoList.Application\\UseCases\\Tasks\\Register\\RegisterTaskUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T01:55:32.366Z"
+              "WhenOpened": "2025-03-24T01:54:32.595Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "GetByIdTaskUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\ToDoListBasic\\ToDoList.Application\\UseCases\\Tasks\\GetById\\GetByIdTaskUseCase.cs",
+              "RelativeDocumentMoniker": "ToDoList.Application\\UseCases\\Tasks\\GetById\\GetByIdTaskUseCase.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\ToDoListBasic\\ToDoList.Application\\UseCases\\Tasks\\GetById\\GetByIdTaskUseCase.cs",
+              "RelativeToolTip": "ToDoList.Application\\UseCases\\Tasks\\GetById\\GetByIdTaskUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T01:49:52.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskStatusProgress.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\ToDoListBasic\\ToDoList.Communication\\Enums\\TaskStatusProgress.cs",
+              "RelativeDocumentMoniker": "ToDoList.Communication\\Enums\\TaskStatusProgress.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\ToDoListBasic\\ToDoList.Communication\\Enums\\TaskStatusProgress.cs",
+              "RelativeToolTip": "ToDoList.Communication\\Enums\\TaskStatusProgress.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T01:31:09.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetAllTaskUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\ToDoListBasic\\ToDoList.Application\\UseCases\\Tasks\\GetAll\\GetAllTaskUseCase.cs",
+              "RelativeDocumentMoniker": "ToDoList.Application\\UseCases\\Tasks\\GetAll\\GetAllTaskUseCase.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\ToDoListBasic\\ToDoList.Application\\UseCases\\Tasks\\GetAll\\GetAllTaskUseCase.cs",
+              "RelativeToolTip": "ToDoList.Application\\UseCases\\Tasks\\GetAll\\GetAllTaskUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T01:07:19.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DeleteTaskByIdUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\ToDoListBasic\\ToDoList.Application\\UseCases\\Tasks\\Delete\\DeleteTaskByIdUseCase.cs",
+              "RelativeDocumentMoniker": "ToDoList.Application\\UseCases\\Tasks\\Delete\\DeleteTaskByIdUseCase.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\ToDoListBasic\\ToDoList.Application\\UseCases\\Tasks\\Delete\\DeleteTaskByIdUseCase.cs",
+              "RelativeToolTip": "ToDoList.Application\\UseCases\\Tasks\\Delete\\DeleteTaskByIdUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T01:29:15.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\ToDoListBasic\\ToDoList.API\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "ToDoList.API\\Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\ToDoListBasic\\ToDoList.API\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "ToDoList.API\\Controllers\\TasksController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAIwFYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T01:49:55.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "ToDoList.API.csproj",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\ToDoListBasic\\ToDoList.API\\ToDoList.API.csproj",
               "RelativeDocumentMoniker": "ToDoList.API\\ToDoList.API.csproj",
@@ -244,19 +309,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "TaskStatusProgress.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\ToDoListBasic\\ToDoList.Communication\\Enums\\TaskStatusProgress.cs",
-              "RelativeDocumentMoniker": "ToDoList.Communication\\Enums\\TaskStatusProgress.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\ToDoListBasic\\ToDoList.Communication\\Enums\\TaskStatusProgress.cs",
-              "RelativeToolTip": "ToDoList.Communication\\Enums\\TaskStatusProgress.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T01:31:09.891Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "ToDoList.Communication.csproj",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\ToDoListBasic\\ToDoList.Communication\\ToDoList.Communication.csproj",
               "RelativeDocumentMoniker": "ToDoList.Communication\\ToDoList.Communication.csproj",

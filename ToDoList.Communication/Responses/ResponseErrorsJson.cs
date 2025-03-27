@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace ToDoList.Communication.Responses
+﻿namespace ToDoList.Communication.Responses
 {
     public class ResponseErrorsJson
     {

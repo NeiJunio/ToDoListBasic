@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using ToDoList.Communication.Responses;
+﻿using ToDoList.Communication.Responses;
 
 namespace ToDoList.Application.UseCases.Tasks.GetById
 {
